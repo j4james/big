@@ -1,0 +1,5 @@
+*.cpp text
+*.h text
+*.txt text
+*.md text
+.* text
